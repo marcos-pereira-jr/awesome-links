@@ -5,7 +5,7 @@ ___
 ### Sourcer
 | Link | Description |
 | ------ | ----------- |
-| [Link](https://devopedia.org/)   | Article source |,
+| [Link](https://devopedia.org/)   | DevOpedia Article source |,
 ### GIT
 | Link | Description |
 | ------ | ----------- |
