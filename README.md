@@ -16,6 +16,7 @@ ___
 ### Spring Boot
 | Link | Description |
 | ------ | ----------- |
+| [DOC](https://docs.spring.io/spring-modulith/reference/events.html) | Spring boot Events
 | [DOC](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#web)   | Spring boot web Doc |
 
 ___
