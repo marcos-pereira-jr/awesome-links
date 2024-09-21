@@ -13,6 +13,12 @@ ___
 | [Commits](https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657)   | medium article |
 
 ___
+### Java
+
+| Link | Description | 
+|------ | ---------|
+| [LINK](https://shipilev.net/) | JVM Anatomy Quark |
+___
 ### Spring Boot
 | Link | Description |
 | ------ | ----------- |
@@ -35,3 +41,7 @@ ___
 | Link | Description |
 | ------ | ----------- |
 | [DOC]([https://markdown-it.github.io](http://escolhaumalicenca.com.br/)http://escolhaumalicenca.com.br/)   | Open Sourcer License |
+
+___
+### Video
+|[CANAL](https://www.youtube.com/@DevoxxForever/)| Devoxx |
